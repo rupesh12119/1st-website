@@ -1,0 +1,27 @@
+
+.nobady{
+    color: chocolate;
+}
+h1{
+    color: green;
+}
+.don{
+    color: red;
+}
+.name1{
+    color: blueviolet;
+    background-color: yellow;
+    width: 60px;
+    height: 30px;
+    padding: 40px;
+    margin: 40px;
+    border: 1px solid aqua;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+div{
+    background-image: url(KOA_Nassau_2697x1517.jpg);
+background-size: cover;
+height:100vh
+}
